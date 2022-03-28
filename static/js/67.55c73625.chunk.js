@@ -1,0 +1,2 @@
+(this["webpackJsonpmy-app"]=this["webpackJsonpmy-app"]||[]).push([[67,86],{162:function(t,e,n){"use strict";n.r(e),n.d(e,"default",(function(){return s}));var a=n(4),c=n(5),r=n(9),i=n(8),u=n(2),p=n.n(u),s=(n(298),function(t){Object(r.a)(n,t);var e=Object(i.a)(n);function n(){return Object(a.a)(this,n),e.apply(this,arguments)}return Object(c.a)(n,[{key:"render",value:function(){return p.a.createElement("div",{className:"datacomics-edit-page"})}}]),n}(p.a.Component))},298:function(t,e,n){}}]);
+//# sourceMappingURL=67.55c73625.chunk.js.map

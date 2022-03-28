@@ -1,0 +1,2 @@
+(this["webpackJsonpmy-app"]=this["webpackJsonpmy-app"]||[]).push([[118],{321:function(p,a,s){p.exports=s.p+"static/media/icon_database_yellow.89b74514.png"}}]);
+//# sourceMappingURL=118.ec00dfad.chunk.js.map
