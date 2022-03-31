@@ -1,1 +1,0 @@
-{"version":3,"sources":["pages/EditPage/EditDataVideos/icon/voice_yellow.png"],"names":["module","exports"],"mappings":"6FAAAA,EAAOC,QAAU,IAA0B","file":"static/js/138.e74bfa99.chunk.js","sourcesContent":["module.exports = __webpack_public_path__ + \"static/media/voice_yellow.a90e083e.png\";"],"sourceRoot":""}

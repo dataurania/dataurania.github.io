@@ -1,0 +1,2 @@
+(this["webpackJsonpmy-app"]=this["webpackJsonpmy-app"]||[]).push([[120],{324:function(p,e,i){p.exports=i.p+"static/media/icon_voice_yellow.b806497e.png"}}]);
+//# sourceMappingURL=120.3f21a26e.chunk.js.map

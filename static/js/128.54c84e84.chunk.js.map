@@ -1,0 +1,1 @@
+{"version":3,"sources":["pages/EditPage/EditDataVideos/icon/toUpload.png"],"names":["module","exports"],"mappings":"6FAAAA,EAAOC,QAAU,IAA0B","file":"static/js/128.54c84e84.chunk.js","sourcesContent":["module.exports = __webpack_public_path__ + \"static/media/toUpload.fe798564.png\";"],"sourceRoot":""}
